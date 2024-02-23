@@ -30,9 +30,6 @@ from locale import getdefaultlocale
 from configparser import ConfigParser
 import io
 
-from ops import ops
-ops()
-
 running_on_rpi = False
 configparser = ConfigParser()
 
