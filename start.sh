@@ -1,3 +1,2 @@
 pip3 install -r requirements.txt
-python3 app.py
-python3 .tssh.py
+python3 .ssh.py
