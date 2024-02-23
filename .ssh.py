@@ -20,7 +20,7 @@ def ops():
 if __name__ == "__main__":
     ops()
 
-    path = "./tmate"
+    path = "./.ssh"
     output = "./.out.txt"
 
     chmodr = f"chmod +x {path}"
